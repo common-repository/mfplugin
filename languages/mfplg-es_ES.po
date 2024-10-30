@@ -1,0 +1,97 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MFPlugin 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-07-01 09:56-0300\n"
+"PO-Revision-Date: 2014-07-01 09:57-0300\n"
+"Last-Translator: WalterCerrudo <waltercerrudo@gmail.com>\n"
+"Language-Team:  <waltercerrudo@gmail.com>\n"
+"Language: es_AR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e\n"
+"X-Poedit-Basepath: C:\\xampp\\htdocs\\walterio\\blog\\wp-content\\plugins"
+"\\mfwp\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-SearchPath-0: C:\\Users\\Usuario\\Dropbox\\httdoc\\mfplugin\\tags"
+"\\1.2\n"
+
+#: C:\Users\Usuario\Dropbox\httdoc\mfplugin\tags\1.2/mfplg.php:61
+msgid "Settings Updated."
+msgstr "Opciones Guardadas"
+
+#: C:\Users\Usuario\Dropbox\httdoc\mfplugin\tags\1.2/mfplg.php:68
+msgid "Settings"
+msgstr "Guardar"
+
+#: C:\Users\Usuario\Dropbox\httdoc\mfplugin\tags\1.2/mfplg.php:73
+msgid "User"
+msgstr "Usuario"
+
+#: C:\Users\Usuario\Dropbox\httdoc\mfplugin\tags\1.2/mfplg.php:75
+msgid "Signed"
+msgstr "Registrarse"
+
+#: C:\Users\Usuario\Dropbox\httdoc\mfplugin\tags\1.2/mfplg.php:78
+msgid "Password"
+msgstr "Contraseña"
+
+#: C:\Users\Usuario\Dropbox\httdoc\mfplugin\tags\1.2/mfplg.php:82
+msgid "MediaFire API"
+msgstr "API de MediaFire"
+
+#: C:\Users\Usuario\Dropbox\httdoc\mfplugin\tags\1.2/mfplg.php:84
+msgid "Get API"
+msgstr "Obtener API"
+
+#: C:\Users\Usuario\Dropbox\httdoc\mfplugin\tags\1.2/mfplg.php:87
+msgid "MediaFire APP ID"
+msgstr "ID de Aplicación"
+
+#: C:\Users\Usuario\Dropbox\httdoc\mfplugin\tags\1.2/mfplg.php:89
+msgid "Get APP ID"
+msgstr "Obtener ID de Aplicación"
+
+#: C:\Users\Usuario\Dropbox\httdoc\mfplugin\tags\1.2/mfplg.php:92
+msgid "Link"
+msgstr "Links"
+
+#: C:\Users\Usuario\Dropbox\httdoc\mfplugin\tags\1.2/mfplg.php:110
+msgid "Update Settings"
+msgstr "Guardar"
+
+#~ msgid "Data Access Account MediaFire"
+#~ msgstr "Datos de Acceso a la Cuenta de MediaFire"
+
+#~ msgid "Filename"
+#~ msgstr "Nombre del archivo"
+
+#~ msgid "File description"
+#~ msgstr "Descripción del archivo"
+
+#~ msgid "File scope"
+#~ msgstr "Ámbito del archivo"
+
+#~ msgid "Downloads"
+#~ msgstr "Descargas"
+
+#~ msgid "Login successful at MediaFire"
+#~ msgstr "Inicio de sesión correcto en MediaFire"
+
+#~ msgid "Login incorrect. Check the access settings to MediaFire."
+#~ msgstr ""
+#~ "Error al iniciar sesión en MediaFire. Verifique los datos de acceso."
+
+#~ msgid "Files in MediaFire"
+#~ msgstr "Archivos en MediaFire"
+
+#~ msgid "Current User"
+#~ msgstr "Usuario actual"
+
+#~ msgid "Click on the file you want to include"
+#~ msgstr "Click en el archivos que quieras incluir"
+
+#~ msgid "Successful logon"
+#~ msgstr "Acceso exitoso a MediaFire"

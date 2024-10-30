@@ -1,0 +1,91 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MFPlugin 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-08 01:47-0300\n"
+"PO-Revision-Date: 2012-06-08 01:48-0300\n"
+"Last-Translator: Walter Cerrudo <waltercerrudo@gmail.com>\n"
+"Language-Team:  <waltercerrudo@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e\n"
+"X-Poedit-Basepath: C:\\xampp\\htdocs\\walterio\\blog\\wp-content\\plugins\\mfwp\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\walterio\\blog\\wp-content\\plugins\\mfwp\n"
+
+#: C:\xampp\htdocs\walterio\blog\wp-content\plugins\mfwp/fileInfo.php:46
+msgid "Filename"
+msgstr "Dateiname"
+
+#: C:\xampp\htdocs\walterio\blog\wp-content\plugins\mfwp/fileInfo.php:47
+msgid "File description"
+msgstr "Datei Beschreibung"
+
+#: C:\xampp\htdocs\walterio\blog\wp-content\plugins\mfwp/fileInfo.php:48
+msgid "File scope"
+msgstr "Datei-Scope"
+
+#: C:\xampp\htdocs\walterio\blog\wp-content\plugins\mfwp/fileInfo.php:49
+msgid "Downloads"
+msgstr "Downloads"
+
+#: C:\xampp\htdocs\walterio\blog\wp-content\plugins\mfwp/mfplg.php:59
+msgid "Settings Updated."
+msgstr "Gespeicherte Einstellungen"
+
+#: C:\xampp\htdocs\walterio\blog\wp-content\plugins\mfwp/mfplg.php:70
+msgid "Login successful at MediaFire"
+msgstr "Anmeldung erfolgreich bei MediaFire"
+
+#: C:\xampp\htdocs\walterio\blog\wp-content\plugins\mfwp/mfplg.php:76
+msgid "Login incorrect. Check the access settings to MediaFire."
+msgstr "Login incorrect. Überprüfen Sie die Zugriffsberechtigungen auf MediaFire."
+
+#: C:\xampp\htdocs\walterio\blog\wp-content\plugins\mfwp/mfplg.php:84
+msgid "Data Access Account MediaFire"
+msgstr "Data Access Konto MediaFire"
+
+#: C:\xampp\htdocs\walterio\blog\wp-content\plugins\mfwp/mfplg.php:89
+msgid "User"
+msgstr "Benutzer"
+
+#: C:\xampp\htdocs\walterio\blog\wp-content\plugins\mfwp/mfplg.php:93
+msgid "Password"
+msgstr "Passwort"
+
+#: C:\xampp\htdocs\walterio\blog\wp-content\plugins\mfwp/mfplg.php:97
+msgid "MediaFire API"
+msgstr "API MediaFire"
+
+#: C:\xampp\htdocs\walterio\blog\wp-content\plugins\mfwp/mfplg.php:99
+msgid "Get API"
+msgstr "Holen Sie sich API"
+
+#: C:\xampp\htdocs\walterio\blog\wp-content\plugins\mfwp/mfplg.php:102
+msgid "MediaFire APP ID"
+msgstr "Anwendungs-ID"
+
+#: C:\xampp\htdocs\walterio\blog\wp-content\plugins\mfwp/mfplg.php:104
+msgid "Get APP ID"
+msgstr "Holen Sie sich Anwendungs-ID"
+
+#: C:\xampp\htdocs\walterio\blog\wp-content\plugins\mfwp/mfplg.php:109
+msgid "Update Settings"
+msgstr "Einstellungen speichern"
+
+#: C:\xampp\htdocs\walterio\blog\wp-content\plugins\mfwp/window.php:18
+#: C:\xampp\htdocs\walterio\blog\wp-content\plugins\mfwp/window.php:65
+msgid "Files in MediaFire"
+msgstr "Dateien in MediaFire"
+
+#: C:\xampp\htdocs\walterio\blog\wp-content\plugins\mfwp/window.php:163
+msgid "Current User"
+msgstr "Aktueller Benutzer"
+
+#: C:\xampp\htdocs\walterio\blog\wp-content\plugins\mfwp/window.php:164
+msgid "Click on the file you want to include"
+msgstr "Klicken Sie auf die Datei, die Sie einbeziehen möchten"
+
